@@ -15,7 +15,7 @@ Implementation was carried out in Python, using libraries such as NumPy and Matp
 Here, the results of the image retrieval system are presented along with a discussion on system performance, method effectiveness, and an analysis of notable cases of success and failure.
 
 ## Conclusion
-The report concludes by summarizing the study's accomplishments, reflecting on the learning outcomes, and suggesting avenues for further research and improvement in CBIR systems.
+The report concludes by summarizing the study's accomplishments, reflecting on the learning outcomes,and suggesting avenues for further research and improvement in CBIR systems.
 
 ## References
 Krizhevsky, A. (2009). Learning Multiple Layers of Features from Tiny Images. Master's thesis, Department of Computer Science, University of Toronto.
